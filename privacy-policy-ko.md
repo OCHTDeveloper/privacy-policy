@@ -8,7 +8,7 @@
 
 ### 회사는 서비스 제공을 위해 필요한 최소한의 개인정보만을 수집하고 있습니다.
 
-- 앱 방문 기록(방문 시간, 페이지, 체류 시간 등)
+- 앱 방문 기록(방문 시간, 페이지, 체류 시간 등)
 - 모바일 OS(Operating System) 정보 및 버전
 - App Set ID(Application Set Identifier)
 - Purchase Token(결제 토큰)
