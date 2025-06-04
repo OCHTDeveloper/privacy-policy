@@ -7,12 +7,14 @@ This privacy policy applies to the Manga Screen Translate app (hereby referred t
 The Application collects information when you download and use it. This information may include information such as
 
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
 *   The operating system you use on your mobile device
+*   App Set ID (Application Set Identifier)
+*   Purchase Token
 
-Purpose of Processing Personal Information  
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+Purpose of Processing Personal Information
+
+*   Analytics and Improvements: Aggregated and anonymized data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
