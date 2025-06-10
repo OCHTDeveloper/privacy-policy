@@ -10,6 +10,7 @@
 
 - 앱 방문 기록(방문 시간, 페이지, 체류 시간 등)
 - 모바일 OS(Operating System) 정보 및 버전
+- Android ID (기기 고유 식별자)
 - App Set ID(Application Set Identifier)
 - Purchase Token(결제 토큰)
 
