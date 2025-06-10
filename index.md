@@ -8,6 +8,7 @@ The Application collects information when you download and use it. This informat
 
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The operating system you use on your mobile device
+*   Android ID
 *   App Set ID (Application Set Identifier)
 *   Purchase Token
 
@@ -18,7 +19,7 @@ Purpose of Processing Personal Information
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to App Set ID, Purchase Token, Obfuscated Account ID. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Android ID, App Set ID, Purchase Token, Obfuscated Account ID. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
